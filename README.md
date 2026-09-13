@@ -30,3 +30,15 @@ This project is an interactive web-based mission design tool for computing LEO c
    It is recommended to use a virtual environment.
    ```bash
    pip install -r requirements.txt
+3. **Run the application:**
+   ```bash
+   streamlit run app.py
+
+## 📖 Short User Guide
+Launch the app using the command above.
+
+Use the sidebar sliders to adjust key parameters (e.g., transmit power, frequencies, data rates).
+
+Select or input the desired TLEs for the satellite/constellation.
+
+View the generated link budget margins and coverage statistics over Romania directly in the dashboard.
