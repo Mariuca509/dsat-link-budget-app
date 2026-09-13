@@ -24,5 +24,5 @@ This project is an interactive web-based mission design tool for computing LEO c
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-link>
-   cd <your-repo-folder>
+   git clone https://github.com/Mariuca509/dsat-link-budget-app.git
+   cd dsat-link-budget-app
