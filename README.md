@@ -42,3 +42,6 @@ Use the sidebar sliders to adjust key parameters (e.g., transmit power, frequenc
 Select or input the desired TLEs for the satellite/constellation.
 
 View the generated link budget margins and coverage statistics over Romania directly in the dashboard.
+
+##✅ Validation Case
+The computations in this tool have been validated against the published link budget of the D-SAT NORAD 42794 mission. 
